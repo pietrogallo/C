@@ -45,7 +45,7 @@ else
 		(i++);	 
 		}
 
-	printf ("%d%d%d%d%d%d%d%d\n\n", array[ 7 ], array[ 6 ], array[ 5 ], array[ 4 ], array[ 3 ], array[ 2 ], array[ 1 ], array[ 0 ] );
+printf ("%d%d%d%d%d%d%d%d\n\n", array[ 7 ], array[ 6 ], array[ 5 ], array[ 4 ], array[ 3 ], array[ 2 ], array[ 1 ], array[ 0 ] );
 
 
 	
